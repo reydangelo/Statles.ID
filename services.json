@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "name": "Coca Cola",
+        "description": "description",
+        "offer_limit": 20,
+        "offer_claimed": 0,
+        "expiry": "2024-09-21"
+    },
+    {
+        "id": "2",
+        "name": "Pepsi",
+        "description": "description",
+        "offer_limit": 20,
+        "offer_claimed": 0,
+        "expiry": "2024-09-21"
+    },
+    {
+        "id": "3",
+        "name": "Tame",
+        "description": "description",
+        "offer_limit": 20,
+        "offer_claimed": 0,
+        "expiry": "2024-09-21"
+    },
+    {
+        "id": "4",
+        "name": "Microsoft",
+        "description": "description",
+        "offer_limit": 20,
+        "offer_claimed": 0,
+        "expiry": "2024-09-21"
+    },
+    {
+        "id": "5",
+        "name": "Google",
+        "description": "- Refugees will receive free enrollment in our professional-level training courses.\n- Courses are designed to be flexible, allowing participants to learn at their own speed, from anywhere.\n-  Participants will gain practical, hands-on experience, preparing them for real-world roles in the workforce.",
+        "offer_limit": 20,
+        "offer_claimed": 0,
+        "expiry": "2024-09-21"
+    },
+    {
+        "id": "6",
+        "name": "Utopia",
+        "description": "description",
+        "offer_limit": 20,
+        "offer_claimed": 0,
+        "expiry": "2024-09-21"
+    },
+    {
+        "id": "7",
+        "name": "Peep",
+        "description": "description",
+        "offer_limit": 20,
+        "offer_claimed": 0,
+        "expiry": "2024-09-21"
+    },
+    {
+        "id": "8",
+        "name": "GBC",
+        "description": "description",
+        "offer_limit": 20,
+        "offer_claimed": 0,
+        "expiry": "2024-09-21"
+    },
+    {
+        "id": "9",
+        "name": "SCRE4M",
+        "description": "description",
+        "offer_limit": 20,
+        "offer_claimed": 0,
+        "expiry": "2024-09-21"
+    },
+    {
+        "id": "10",
+        "name": "Atlas",
+        "description": "description",
+        "offer_limit": 20,
+        "offer_claimed": 0,
+        "expiry": "2024-09-21"
+    },
+    {
+        "id": "11",
+        "name": "Klay",
+        "description": "description",
+        "offer_limit": 20,
+        "offer_claimed": 0,
+        "expiry": "2024-09-21"
+    },
+    {
+        "id": "12",
+        "name": "Enkai",
+        "description": "description",
+        "offer_limit": 20,
+        "offer_claimed": 0,
+        "expiry": "2024-09-21"
+    }
+]
