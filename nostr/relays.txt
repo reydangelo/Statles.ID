@@ -1,2 +1,0 @@
-wss://nostr-03.dorafactory.org
-wss://nostr-relay.app'
